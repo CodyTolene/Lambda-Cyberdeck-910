@@ -1,0 +1,12 @@
+[Unit]
+Description=Rotary Encoder Service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/<USER>/Scripts/rotary_encoder.py
+Restart=always
+User=<USER>
+
+[Install]
+WantedBy=multi-user.target
