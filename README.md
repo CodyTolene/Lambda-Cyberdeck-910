@@ -485,6 +485,6 @@ Cody Tolene
 
 <!-- DOWNLOADS -->
 
-[download-full-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Lambda_Cyberdeck_910.3mf
-[download-full-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Lambda_Cyberdeck_910.stl
-[view-full-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Lambda_Cyberdeck_910.stl
+[download-full-3mf]: https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/Lambda_Cyberdeck_910.3mf
+[download-full-stl]: https://github.com/CodyTolene/Lambda-Cyberdeck-910/raw/main/Lambda_Cyberdeck_910.stl
+[view-full-stl]: https://github.com/CodyTolene/Lambda-Cyberdeck-910/blob/main/Lambda_Cyberdeck_910.stl
