@@ -458,11 +458,11 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 
 Thanks for checking out my Lambda Cyberdeck project! I hope you found this guide helpful and you had fun building your own cyberdeck. I had a lot of fun figuring all of this out and getting all put together, and may create more in the future. If you have any questions or need help with your build, feel free to reach out to me.
 
-| Type                                                                      | Info                                                                      |
-| :------------------------------------------------------------------------ | :------------------------------------------------------------------------ |
-| <img width="48" src=".github/images/ng-icons/email.svg" />                | webmaster@codytolene.com                                                  |
-| <img width="48" src=".github/images/simple-icons/buymeacoffee.svg" />     | https://www.buymeacoffee.com/codytolene                                   |
-| <img width="48" src=".github/images/simple-icons/bitcoin-btc-logo.svg" /> | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][url-btc] |
+| Type                                                                      | Info                                                                       |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
+| <img width="48" src=".github/images/ng-icons/email.svg" />                | webmaster@codytolene.com                                                   |
+| <img width="48" src=".github/images/simple-icons/buymeacoffee.svg" />     | https://www.buymeacoffee.com/codytolene                                    |
+| <img width="48" src=".github/images/simple-icons/bitcoin-btc-logo.svg" /> | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][link-btc] |
 
 Fin. Have a good day friend!
 
@@ -473,12 +473,13 @@ Cody Tolene
 <!---------------------------------------------------------------------------->
 
 <!-- IMAGE REFERENCES -->
+[img-3d]: .github/images/previews/3d.png
 [img-info]: .github/images/ng-icons/info.svg
 [img-warning]: .github/images/ng-icons/warn.svg
-[img-3d]: .github/images/previews/3d.png
 
 <!-- LINK REFERENCES -->
 
+[link-btc]: https://explorer.btc.com/btc/address/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [link-fan]: https://www.pishop.us/product/highpi-pro-5v-cooling-fan/
 [link-lcd]: https://www.pishop.us/product/7inch-hdmi-lcd-h-display-1024x600-ips/
 [link-rotary-encoder]: https://www.pishop.us/product/rotary-encoder-extras/
